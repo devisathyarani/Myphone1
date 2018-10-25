@@ -12,6 +12,10 @@ public class Phone {
 	System.out.println(phone);	
 
 	}
+
+public void method() {
+	System.out.println("ssss");
+}
 	
 	public static void main(String[] args) {
 		Phone p=new Phone();
